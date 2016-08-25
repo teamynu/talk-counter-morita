@@ -813,7 +813,7 @@
     <Content Include="www\index.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>1c35f559</hash>
+      <hash>713e51da</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -822,8 +822,7 @@
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>636077697596627654</lastModified>
     </Content>
     <Content Include="www\js\app.js">
       <type>file</type>
